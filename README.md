@@ -1,3 +1,2 @@
-# Delta
-Delta Temperature Soft
+# Delta Temperature Soft
 # It is currently under development...
